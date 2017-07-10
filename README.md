@@ -1,6 +1,6 @@
 # Devslopes Core ML Section from iOS 11 Course: Source Code #
 
-![core-ml-banner.png](https://bitbucket.org/repo/qE97b56/images/460207686-core-ml-banner.png)
+![core-ml-banner.png](https://bitbucket.org/repo/qE97b56/images/2260635698-core-ml-banner.png)
 
 This repository accompanies the Core ML section of the iOS 11: From Beginner to Paid Professional course from Devslopes available in the 'Learn to Code' app available on the iOS, macOS, and tvOS App Store.
 
